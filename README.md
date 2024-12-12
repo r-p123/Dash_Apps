@@ -1,4 +1,4 @@
-# Dash_Apps
+# Dash Apps
 Source files for serving multiple dash apps through one instance
 
 So far there are interactive dashboards for Passive Membrane Equation and a LIF Neuron with multiple input currents. Screenshots below show what they look like. The are served on AWS to view from my Github Pages site.
